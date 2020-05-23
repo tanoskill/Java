@@ -5,6 +5,7 @@ Programma Java che elabora un file CSV preso dalla sezione OpenData del sito Ape
 ## File scelto
 Il file scelto contiene una serie storica relativa alla temperatura media registrata nella Città di Torino per gli anni 
 compresi tra il 1990 e il 2017.
+Il file è presente nella cartella **Resources** della repository Java.
 <hr>
 
 ## Autore e manutentore del file .CSV
