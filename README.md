@@ -12,6 +12,11 @@ compresi tra il 1990 e il 2017.
 <hr>
 
 ## Tipi di grafici scelti per l'elaborazione dei dati
-- Istogramma;
+- Istogramma
 - Diagramma Cartesiano
+<hr>
+
+## Dati contenuti nel file
+- Serie di anni
+- Temperature medie corrispondenti all'anno
 <hr>
