@@ -8,4 +8,5 @@ compresi tra il 1990 e il 2017.
 <hr>
 
 ## Java - Autore e manutentore del file
+**ArpaPiemonte**
 <hr>
