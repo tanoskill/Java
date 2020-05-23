@@ -7,4 +7,3 @@ Il file scelto contiene una serie storica relativa alla temperatura media regist
 compresi tra il 1990 e il 2017.
 <hr>
 ### Java - Autore e manutentore del file
-**ArpaPiemonte**
